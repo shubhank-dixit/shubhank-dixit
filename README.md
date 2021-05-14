@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Development.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me - LinkedIn @shubhank-dixit-b309061a3/
+- 📫 Reach me at - shubhank.dixit.9@gmail.com
 
 <!---
 shubhank-dixit/shubhank-dixit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
