@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shubhank-dixit
 - 👀 I’m interested in Full Stack Development.
 - 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on 
 - 📫 Reach me at - shubhank.dixit.9@gmail.com
 
 <!---
